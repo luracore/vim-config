@@ -36,6 +36,7 @@ set mouse=a
 set clipboard=unnamedplus
 
 " Keymaps
+nnoremap <leader>e :Ex<CR>
 
 " Splits
 nnoremap <leader>s :vsplit<CR>
